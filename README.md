@@ -7,15 +7,15 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EliasGcf/github-explorer">
-  <a href="https://www.linkedin.com/in/eliasgcf/" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-%23"></a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/github-explorer">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Vitor-Klein/GitHub-Explorer">
+  <a href="https://www.linkedin.com/in/vitor-klein/" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-%23"></a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Vitor-Klein/GitHub-Explorer">
   <a href="https://github.com/EliasGcf/github-explorer/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/github-explorer">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Vitor-Klein/GitHub-Explorer">
   </a>
-  <a href="https://github.com/EliasGcf/github-explorer/issues"><img alt="Repository issues" src="https://img.shields.io/github/issues/EliasGcf/github-explorer"></a>
+  <a href="https://github.com/Vitor-Klein/GitHub-Explorer/issues"><img alt="Repository issues" src="https://img.shields.io/github/issues/Vitor-Klein/GitHub-Explorer"></a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/github-explorer">
+  <img alt="GitHub" src="https://img.shields.io/github/license/Vitor-Klein/GitHub-Explorer">
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 This small web application was developed in order to study the main concepts of ReactJS. In a simple way, it allows registering and listing repositories, in addition to providing some information about it.
 
-I made the deploy on GitHub Pages, [access](https://eliasgcf.github.io/github-explorer/) 📲
+I made the deploy on GitHub Pages, [access](https://Vitor-Klein.github.io/GitHub-Explorer/) 📲
 
 <details><summary>Project Layout</summary>
   <img alt="Dashboard-Dark" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588186808/github-explorer/Captura_de_Tela_2020-04-29_a%CC%80s_15.55.32_rulsfk.png">
@@ -63,7 +63,7 @@ Technologies that I used to develop this web application
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/EliasGcf/github-explorer.git && cd github-explorer
+$ git clone https://github.com/Vitor-Klein/GitHub-Explorer.git && cd GitHub-Explorer
 ```
 
 **Follow the steps below**
@@ -84,14 +84,14 @@ $ yarn start
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork EliasGcf/github-explorer
+$ gh repo fork Vitor-Klein/GitHub-Explorer
 ```
 
 **Follow the steps below**
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd github-explorer
+$ git clone your-fork-url && cd GitHub-Explorer
 
 # Create a branch with your feature
 $ git checkout -b my-feature
@@ -110,5 +110,3 @@ After your pull request is merged, you can delete your branch
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Made with 💜&nbsp; by Elias Gabriel 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/eliasgcf/)
