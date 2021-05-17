@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/github-explorer/static/js/main.c2c03147.chunk.js",
+    "main.js.map": "/github-explorer/static/js/main.c2c03147.chunk.js.map",
+    "runtime-main.js": "/github-explorer/static/js/runtime-main.906dbdf0.js",
+    "runtime-main.js.map": "/github-explorer/static/js/runtime-main.906dbdf0.js.map",
+    "static/js/2.0f07b91e.chunk.js": "/github-explorer/static/js/2.0f07b91e.chunk.js",
+    "static/js/2.0f07b91e.chunk.js.map": "/github-explorer/static/js/2.0f07b91e.chunk.js.map",
+    "index.html": "/github-explorer/index.html",
+    "precache-manifest.c8762591f64bd461536108f0c57e2f37.js": "/github-explorer/precache-manifest.c8762591f64bd461536108f0c57e2f37.js",
+    "service-worker.js": "/github-explorer/service-worker.js",
+    "static/js/2.0f07b91e.chunk.js.LICENSE.txt": "/github-explorer/static/js/2.0f07b91e.chunk.js.LICENSE.txt",
+    "static/media/github-background-dark.svg": "/github-explorer/static/media/github-background-dark.666f2825.svg",
+    "static/media/github-background.svg": "/github-explorer/static/media/github-background.0b819d63.svg",
+    "static/media/logo.svg": "/github-explorer/static/media/logo.04f6798f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.906dbdf0.js",
+    "static/js/2.0f07b91e.chunk.js",
+    "static/js/main.c2c03147.chunk.js"
+  ]
+}
