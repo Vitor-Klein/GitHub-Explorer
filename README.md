@@ -7,18 +7,6 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Vitor-Klein/GitHub-Explorer">
-  <a href="https://www.linkedin.com/in/vitor-klein/" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-%23"></a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Vitor-Klein/GitHub-Explorer">
-  <a href="https://github.com/EliasGcf/github-explorer/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Vitor-Klein/GitHub-Explorer">
-  </a>
-  <a href="https://github.com/Vitor-Klein/GitHub-Explorer/issues"><img alt="Repository issues" src="https://img.shields.io/github/issues/Vitor-Klein/GitHub-Explorer"></a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/Vitor-Klein/GitHub-Explorer">
-</p>
-
-<p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
