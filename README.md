@@ -64,7 +64,7 @@ $ yarn
 $ yarn start
 ```
 
-## 🤔 How to contribute
+## How to contribute
 
 **Make a fork of this repository**
 
